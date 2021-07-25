@@ -1,4 +1,219 @@
-@media only screen and (max-width: 600px) {
+/*@media only screen and (max-width: 520px) {
+  #napis-wrapper {
+    width: 400px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+  #logo-pandita {
+    background-image: url(../assets/pandita-logo-image-100.png);
+    background-size: 100% 100%;
+    order: 2px solid blue;
+    width: 28px;
+    height: 28px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: -14px;
+  }
+
+  #napis {
+    font-size: 28px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  #napis-wrapper {
+    width: 360px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+  #logo-pandita {
+    background-image: url(../assets/pandita-logo-image-100.png);
+    background-size: 100% 100%;
+    order: 2px solid blue;
+    width: 25px;
+    height: 25px;
+
+    float: left;
+    margin-left: 20px;
+    margin-top: 9px;
+    margin-right: -10px;
+  }
+
+  #napis {
+    font-size: 25px;
+  }
+}
+*/
+/*small sreens*/ /*
+@media only screen and (max-width: 440px) {
+  #napis-wrapper-small-screen {
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    order: 2px solid green;
+  }
+
+  #logo-pandita-small-screen {
+    background-image: url(../assets/pandita-logo-image-100.png);
+    background-size: 100% 100%;
+    order: 2px solid blue;
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 45px;
+    margin-top: 9px;
+    margin-right: -40px;
+  }
+
+  #napis-wrapper-small-screen {
+    display: block;
+  }
+
+  #napis-small-screen {
+    color: #6d4800;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    font-size: 30px;
+    border-radius: 25px;
+    font-family: arial;
+    font-weight: bold;
+
+    line-height: 1.3;
+
+    text-align: center;
+    letter-spacing: 1px;
+
+    background-color: #bb6442;
+    background-color: rgb(253, 227, 184);
+    background-color: white;
+
+    order: 2px solid red;
+  }
+  #napis-wrapper {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 300px) {
+  #napis-wrapper-small-screen {
+    margin-left: auto;
+    margin-right: auto;
+    width: 220px;
+    order: 2px solid green;
+  }
+
+  #logo-pandita-small-screen {
+    background-image: url(../assets/pandita-logo-image-100.png);
+    background-size: 100% 100%;
+    order: 2px solid blue;
+    width: 25px;
+    height: 25px;
+    float: left;
+    margin-left: 45px;
+    margin-top: 9px;
+    margin-right: -40px;
+  }
+
+  #napis-wrapper-small-screen {
+    display: block;
+  }
+
+  #napis-small-screen {
+    color: #6d4800;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    font-size: 30px;
+    border-radius: 25px;
+    font-family: arial;
+    font-weight: bold;
+
+    line-height: 1.3;
+
+    text-align: center;
+    letter-spacing: 1px;
+
+    background-color: #bb6442;
+    background-color: rgb(253, 227, 184);
+    background-color: white;
+
+    order: 2px solid red;
+    font-size: 25px;
+  }
+  #napis-wrapper {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 220px) {
+  #napis-wrapper-small-screen {
+    margin-left: auto;
+    margin-right: auto;
+    width: 180px;
+    order: 2px solid green;
+  }
+
+  #logo-pandita-small-screen {
+    background-image: url(../assets/pandita-logo-image-100.png);
+    background-size: 100% 100%;
+    order: 2px solid blue;
+    width: 22px;
+    height: 22px;
+    float: left;
+    margin-left: 25px;
+    margin-top: 9px;
+    margin-right: -40px;
+  }
+
+  #napis-wrapper-small-screen {
+    display: block;
+  }
+
+  #napis-small-screen {
+    color: #6d4800;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    font-size: 30px;
+    border-radius: 25px;
+    font-family: arial;
+    font-weight: bold;
+
+    line-height: 1.3;
+
+    text-align: center;
+    letter-spacing: 1px;
+
+    background-color: #bb6442;
+    background-color: rgb(253, 227, 184);
+    background-color: white;
+
+    order: 2px solid red;
+    font-size: 22px;
+  }
+  #napis-wrapper {
+    display: none;
+  }
+}
+*/
+#napis {
+  /*margin-left: 20px;
+    margin-right: 23px;
+    padding-right: 30px;
+    padding-left: 20px;
+    font-size: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;*/
+}
+
+/*@media only screen and (max-width: 600px) {
   #napis {
     font-size: 27px;
     background-size: 27px 27px;
@@ -72,3 +287,4 @@
     height: 72px;
   }
 }
+*/

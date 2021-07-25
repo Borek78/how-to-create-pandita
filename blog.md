@@ -11,7 +11,7 @@ layout: default
 <div class="no-link-underline" markdown="1" >
 <!--### [Jak tvořit titulky](jak-tvorit-titulky.html) <br>-->
 
-### [CC licenses and YouTube](cc-licenses-and-youtube.html) <br>
+### [CC licenses and YouTube](cc-licenses-for-youtube.html) <br>
 
 </div>
 </div>
