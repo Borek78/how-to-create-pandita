@@ -86,9 +86,6 @@ a#uplne-levy {
 }
 
 /*banner in the header - small screen*/
-#napis-wrapper-small-screen {
-  display: none;
-}
 
 /*banner in the header*/
 #napis-wrapper {
@@ -96,18 +93,6 @@ a#uplne-levy {
   margin-right: auto;
   width: 440px;
   order: 2px solid green;
-}
-
-#logo-pandita {
-  background-image: url(../assets/pandita-logo-image-100.png);
-  background-size: 100% 100%;
-  order: 2px solid blue;
-  width: 30px;
-  height: 30px;
-  float: left;
-  margin-left: 30px;
-  margin-top: 10px;
-  margin-right: -10px;
 }
 
 #banner {
@@ -141,11 +126,14 @@ a#uplne-levy {
   text-align: center;
   letter-spacing: 1px;
 
-  background-color: #bb6442;
+  border: 5px solid #b66343;
   background-color: rgb(253, 227, 184);
   background-color: white;
+  border: 5px solid #b37800;
 
-  order: 2px solid red;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
 }
 
 /* body and footer */
@@ -157,7 +145,8 @@ body {
 
 footer {
   order: 1px solid blue;
-  background-color: #885b01;
+  background-color: #c38303;
+  background-color: #b37800;
   margin-top: 0px;
   width: 100%;
   min-width: 100%;
