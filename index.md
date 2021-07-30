@@ -28,5 +28,5 @@ Presently there is just one article on the blog.<br><br>
 Best regards,<br><br>
 
 Dalibor Pavlik<br>
-Facebook: Dalibor Pavlik - Borek<br>
+[facebook: Dalibor Pavlik – Borek](https://www.facebook.com/robilad.kilvap)<br>
 email: cz.pandita@gmail.com<br>
