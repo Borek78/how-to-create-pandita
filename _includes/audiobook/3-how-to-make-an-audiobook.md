@@ -1,4 +1,6 @@
+<div id="nd-condition" markdown="1">
 ### ND CONDITION
+</div>
 
 Two of the CC licenses have the ND condition included. The ND condition does not allow to translate or to create and audiobook of the translaiton. This is obvious from the following part. <br><br>
 
@@ -19,8 +21,6 @@ The legal code of these two licenses gives the same reply. It just a bit more te
 [the names of the two licenses above are linked to the legal code of the licenses]<br><br>
 
 The following two parts can be found in these two licenses. Translation is explicitely mentioned. Audiobook is not. But audiobooks are material in which the Licensed Material is "modified in manner requiring permission under the Copyright and Similar Rights held by the Licensor." Therefore, audiobooks are also an Adapted Material.
-
-<br><br>
 
 <div class="citace">
 Section 2 – Scope.<br><br>

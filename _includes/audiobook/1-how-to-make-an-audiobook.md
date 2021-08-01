@@ -15,7 +15,11 @@ The first reason is rather obvious. Audiobook production includes one additional
 
 And how can I obtain the copyright to make an audiobook?<br>
 
+{% include_relative  _includes/content-audiobooks.html %}
+
+<div id="anchor-asking-for-permission" markdown="1">
 ### ASKING FOR PERMISSION
+</div>
 
 The first option is to contact the authors and the translators and ask them for their permission to create an audiobook of their work and share the audiobook publicly on my YouTube channel.<br><br>
 
