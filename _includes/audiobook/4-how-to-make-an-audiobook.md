@@ -57,4 +57,4 @@ Presently every YouTube channel owner can decide if his/her channel is monetized
 But in the future, YouTube may starting displaying ads on all YouTube channels. As result, it may not be possible to use NC licensed content on YouTube anymore.<br><br>
 
 <div class="underline">My conclusion</div>
-As YouTube channel owner I would be happy to upload any Buddhist content on my channel. But as a creator of Buddhist content, I would rather avoid working with NC licensed content because I may not be able to use it on my YouTube channel in the future.
+As a YouTube channel owner I would be happy to upload any NC licensed Buddhist content on my channel. But as a creator of Buddhist content I would rather avoid working with NC licensed content because I may not be able to use it on my YouTube channel in the future.

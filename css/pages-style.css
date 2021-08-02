@@ -19,6 +19,8 @@
   border: 1px dotted #b7542d85;
 
   width: 250px;
+
+  text-align: left;
 }
 
 a#podminky-uziti {
@@ -136,6 +138,7 @@ h1 {
   padding-right: 3px;
   margin-bottom: 10px;
   display: inline-block;
+  margin-top: 15px;
 }
 
 .highlighted-text-blue {

@@ -13,7 +13,7 @@ Why?<br><br>
 
 The first reason is rather obvious. Audiobook production includes one additional step — recording voice of the narrator. But there is another obstacle to making audiobooks — copyright. <br><br>
 
-And how can I obtain the copyright to make an audiobook?<br>
+<p id="go-to-content">And how can I obtain the copyright to make an audiobook?</p>
 
 {% include_relative  _includes/content-audiobooks.html %}
 
