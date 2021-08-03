@@ -6,11 +6,11 @@ layout: default
 ---
 
 {% include_relative  _includes/audiobook/1-how-to-make-an-audiobook.md %}
-{% include_relative  _includes/audiobook/2-how-to-make-an-audiobook.md %}
-{% include_relative  _includes/audiobook/3-how-to-make-an-audiobook.md %}
-{% include_relative  _includes/audiobook/4-how-to-make-an-audiobook.md %}
-{% include_relative  _includes/audiobook/5-how-to-make-an-audiobook.md %}
-{% include_relative  _includes/audiobook/6-how-to-make-an-audiobook.md %}
-{% include_relative  _includes/audiobook/7-how-to-make-an-audiobook.md %}
+{% include_relative  _includes/audiobook/2-cc-licenses-how-to-make-an-audiobook.md %}
+{% include_relative  _includes/audiobook/3-nd-condition-how-to-make-an-audiobook.md %}
+{% include_relative  _includes/audiobook/4-nc-condition-how-to-make-an-audiobook.md %}
+{% include_relative  _includes/audiobook/5-sa-condition-how-to-make-an-audiobook.md %}
+{% include_relative  _includes/audiobook/6-cc-zero-and-cc-by-how-to-make-an-audiobook.md %}
+{% include_relative  _includes/audiobook/7-using-the-cc-licenses-how-to-make-an-audiobook.md %}
 
 <script src="./js/script-audiobooks.js"></script>

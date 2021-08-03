@@ -28,7 +28,7 @@ And what about audiobooks? Is it possible to make money on audiobooks that are p
 <div class="underline">CC BY-SA and YouTube</div>
 One day YouTube might display ads on all YouTube channels. In my opinion, it is not very likely but it could happen. But if it happens, all YouTube channel owners will have to delete all NC licensed content. <br><br>
 
-Could anything like this happen to content published under the CC BY-SA license? Perhaps YouTube could ad this statement in the Terms of Services.<br><br>
+Could this happen to a content published under the CC BY-SA license? Perhaps YouTube could add this statement in the Terms of Services.<br><br>
 
 “It is not allowed to upload content licensed under the CC BY-SA license.”<br><br>
 

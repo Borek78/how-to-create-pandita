@@ -1,4 +1,4 @@
-### CC0 AND CC BY
+### CC-Zero AND CC BY
 
 A book published under the CC-Zero is dedicated to the public domain. It is a free work anyone can use in any way. The author did let go of his copyright. <br><br>
 
