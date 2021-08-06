@@ -35,4 +35,4 @@ Could this happen to a content published under the CC BY-SA license? Perhaps You
 I do not think that it is very likely. The more content on YouTube the better for YouTube. YouTube is a commercial project and they financialy benefit from all the content available on the platform.<br><br>
 
 <div class="underline">CC BY-SA CONCLUSION</div>
-Translation of CC BY-SA licensed book for commercial purposes does not seem very likely. But a buddhist content creator and volunteer like me should be able to make a good use of CC BY-SA licensed books. <br><br>
+CC BY-SA is not a very good license for commercial purposes.  But a buddhist content creator and volunteer like me should be able to make a good use of CC BY-SA licensed books. <br><br>
