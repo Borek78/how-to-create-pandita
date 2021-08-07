@@ -80,7 +80,7 @@ The translation is available on www.good-translator-website.com<br>
 
 </div>
 
-A few years later another volunteer decides to turn Buddhův život into an Audiobook. The name of the volunteer is Good Narrator. <br><br>
+After some time, another volunteer decides to turn Buddhův život into an Audiobook. The name of the volunteer is Good Narrator. <br><br>
 
 Good Narrator narrates the book and the name of the audiobook is also Buddhův život. What kind of notice should he associate with his audiobook? This is a possible solution.
 

@@ -6,24 +6,13 @@ layout: default
 ---
 
 <br>
-Welcome to my blog.<br><br>
+Dear Dhammafriends,<br><br>
 
-My names is Dalibor. I am from the Czech Republic. Presently I am creating a Buddhist YouTube channel PANDITA CZ. The channel is for Czech audience.<br><br>
-
-<div class="do-not-break-out" markdown="1">
-[https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew)
-<div class="do-not-break-out" markdown="1"><br>
-
-I am inspired by the very successfull YouTube channel sasana.pl.<br><br>
-
-<div class="do-not-break-out" markdown="1">
-[https://www.youtube.com/c/sasanaPL/featured](https://www.youtube.com/c/sasanaPL/featured)
-</div>
-<br>
+My names is Dalibor and I am from the Czech Republic. I am creating a buddhist [YouTube channel PANDITA CZ.](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew) The channel is for czech audience. I am inspired by the very succesfull polish [YouTube channel Sasana.pl.](https://www.youtube.com/c/sasanaPL/featured)<br><br>
 
 I created this blog to communicate with my Dhammafriends from abroad. Perhaps it will also help me to share some of my experiences.<br><br>
 
-Presently there is just one article on the blog.<br><br>
+I am also writing a czech version of this blog. It is still very incomplete. The template is the same but the content is not identical. <br><br>
 
 Best regards,<br><br>
 
