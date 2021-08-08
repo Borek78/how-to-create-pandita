@@ -70,10 +70,10 @@ The Life of the Buddha was written by Good Author and it is licensed under the C
 The book is available on www.good-author-website.com.<br><br>
 
 Buddhův život was translated into the Czech language by Good Translator and his
-translation is licensed under CC BY license:<br>
+translation is licensed under CC-Zero license:<br>
 
 <div class="do-not-break-out" markdown="1">
-[https://creativecommons.org/licenses/by/4.0/.](https://creativecommons.org/licenses/by/4.0/.)<br>
+[https://creativecommons.org/publicdomain/zero/1.0/deed.cs.](https://creativecommons.org/publicdomain/zero/1.0/deed.cs.)<br>
 </div>
 
 The translation is available on www.good-translator-website.com<br>
@@ -95,18 +95,18 @@ The Life of the Buddha was written by Good Author and it is licensed under the C
 The book is available on www.good-author-website.com.
 <br><br>
 
-Buddhův život was translated by Good Translator and his translation is licensed under CC BY license:<br>
+Buddhův život was translated by Good Translator and his translation is licensed under CC-Zero license:<br>
 
 <div class="do-not-break-out" markdown="1">
-[https://creativecommons.org/licenses/by/4.0/.](https://creativecommons.org/licenses/by/4.0/.)<br>
+[https://creativecommons.org/publicdomain/zero/1.0/deed.cs.](https://creativecommons.org/publicdomain/zero/1.0/deed.cs)<br>
 </div>
 The translation is available on www.good-translator-website.com
 <br><br>
 
-The audiobook was narrated by Good Narrator and his narration is licensed under CC BY license:<br>
+The audiobook was narrated by Good Narrator and his narration is licensed under CC BY-SA license:<br>
 
 <div class="do-not-break-out" markdown="1">
-[https://creativecommons.org/licenses/by/4.0/.](https://creativecommons.org/licenses/by/4.0/.)<br>
+[https://creativecommons.org/licenses/by-sa/4.0/.](https://creativecommons.org/licenses/by-sa/4.0/.)<br>
 
 This audiobook was first published on PANDITA CZ youtube channel: [https://www.youtube.com/c/PanditaCZ](https://www.youtube.com/c/PanditaCZ)
 

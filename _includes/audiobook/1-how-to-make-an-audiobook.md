@@ -1,6 +1,11 @@
 # COPYRIGHT AND BUDDHIST AUDIOBOOKS
 
-From 2005 to 2015 I was publishing Dhamma books in czech language for free distribution. Dharma zdarma (Free Dharma) was the name of the project. The website of the project is still available on [www.dharmazdarma.cz.](http://www.dharmazdarma.cz/) <br><br>
+From 2005 to 2015 I was publishing Dhamma books in czech language for free distribution. Dharma zdarma (Free Dharma) was the name of the project. The website of the project is still available on
+
+<div class="do-not-break-out" markdown="1">
+[www.dharmazdarma.cz.](http://www.dharmazdarma.cz/) 
+</div>
+<br><br>
 
 It was quite easy to organize. There were just a few steps involved.<br><br>
 <span>1.</span>Asking the author for his permission.<br>
