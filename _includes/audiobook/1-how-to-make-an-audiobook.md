@@ -1,16 +1,16 @@
-# COPYRIGHT AND BUDDHIST AUDIOBOOKS
+# AUDIOBOOKS, CC LICENSES AND SHARING THE DHAMMA
 
 From 2005 to 2015 I was publishing Dhamma books in czech language for free distribution. Dharma zdarma (Free Dharma) was the name of the project. The website of the project is still available on
 
 <div class="do-not-break-out" markdown="1">
 [www.dharmazdarma.cz.](http://www.dharmazdarma.cz/) 
 </div>
-<br><br>
+<br>
 
 It was quite easy to organize. There were just a few steps involved.<br><br>
-<span>1.</span>Asking the author for his permission.<br>
-<span>2.</span>Asking the translator for his/her permission.<br>
-<span>3.</span>Fundraising.<br><br>
+<span>1.</span> Asking the author for his permission.<br>
+<span>2.</span> Asking the translator for his/her permission.<br>
+<span>3.</span> Fundraising.<br><br>
 
 Last year I started to think about creating some audiobooks too. To my surprise, I realized that creating Dhamma audiobooks is much more complicated.<br><br>
 
@@ -42,4 +42,4 @@ However, the members of our local comunity may hesitate to support me. They may 
 „This is a nice book. It would be good to make an audiobook of it. But Dalibor is the only person who has the permission to share the audiobook publicly. One day Dalibor is going to die and YouTube may terminate his YouTube channel. As a result, the book may not be accessible to the general public anymore. Isn't there a better way to organize this?“
 </div>
 
-The good news is that there is a better way to organize publishing of buddhist audiobooks — the CC licenses.
+The good news is that there is a better to organize publishing of Buddhist audiobooks. The CC licenses are a good tool that could be used for this purpose.

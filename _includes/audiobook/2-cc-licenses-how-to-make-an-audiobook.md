@@ -7,9 +7,9 @@ CC licences are an announcment made to the public. The following words summarize
  „Hello everyone, you can use my work. You just have to comply with the conditions set by the license used. But do now worry too much about these conditions. They are very easy to understand and comply with.“ 
  </div>
 
-There are seven licenses that any author or a copyright holder can apply on his/her work.<br><br>
+There are seven licenses that an author or a copyright holder can apply on his/her work.<br><br>
 
-[CC0](https://creativecommons.org/publicdomain/zero/1.0/)<br>
+[CC-Zero](https://creativecommons.org/publicdomain/zero/1.0/)<br>
 [CC BY](https://creativecommons.org/publicdomain/by/4.0/)<br>
 [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)<br>
 

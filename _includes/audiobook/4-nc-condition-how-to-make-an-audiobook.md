@@ -15,7 +15,7 @@ These two licences do not include the ND condition and they certainly can be use
 
 - give a permission to translate his book and let the translator share his translation publicaly<br>
 
-- give a permission to create an audiobook of his book and let the creator of the audiobook share the audiobook publicaly<br><br>
+- give a permission to create an audiobook and let the creator share the audiobook publicaly<br><br>
 
 There are a few obvious consequences of using a NC license. Any book licensed with a NC license:<br>
 
@@ -25,10 +25,10 @@ There are a few obvious consequences of using a NC license. Any book licensed wi
 
 - an audiobook made of the translation can not be used for commercial purposes<br><br>
 
-And what about YouTube? Is it possible to use an audiobook licensed with NC license on YouTube? <br><br>
+And what about YouTube? Is it possible to use NC licensed audiobooks on YouTube? <br><br>
 
 <div class="underline">NC licenses and YouTube </div>
- All CC licenses can be used on YouTube. It can be found on the Creative Commons Corporation website.
+ All CC licenses can be used on YouTube. This information can be found on the Creative Commons Corporation website.
 <br><br>
 
 <div class="do-not-break-out" markdown="1">
@@ -39,7 +39,7 @@ And what about YouTube? Is it possible to use an audiobook licensed with NC lice
 „For third-party platforms: Many media platforms like Flickr, YouTube, and SoundCloud have built-in Creative Commons capabilities, letting users mark their material with a CC license through their account settings. The benefit of using this functionality is that it allows other people to find your content when searching those plattforms for CC-licensed material. If the platform where you’re uploading your content does not support CC licensing, you can still identify your content as CC-licensed in the text description of your content.“
 </div>
 
-But YouTube can at any time display ads on any YouTUbe channel. It can be found in YouTube´s Terms of Service.<br><br>
+But YouTube can display ads on any YouTUbe channel. This information can be found in YouTube´s Terms of Service.<br><br>
 
 <div class="do-not-break-out" markdown="1">
 [https://www.youtube.com/static?gl=GB&template=terms](https://www.youtube.com/static?gl=GB&template=terms)
@@ -52,9 +52,9 @@ You grant to YouTube the right to monetize your Content on the Service (and such
 
 [the text above was copied from the british version of Terms of Service but the same condition can be found in the Czech version]<br><br>
 
-Presently every YouTube channel owner can decide if his/her channel is monetized. And there are many YouTube channels without any ads on YouTube. That means that any NC licensed content can be used on these YouTube channels.<br><br>
+Presently (August, 2021) YouTube does not display ads on these Buddhist YouTube channels in the Czech Republic: [PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew), [BuddhaSasana](https://www.youtube.com/channel/UCp4wUT7j5OQ7XCUHfs6rUcA) and [Ajahn Brahm česky](https://www.youtube.com/channel/UCUr-lRBB59mFLyKFhAAbXbg).<br><br>
 
-But in the future, YouTube may starting displaying ads on all YouTube channels. As result, it may not be possible to use NC licensed content on YouTube anymore.<br><br>
+I have also not noticed any ads on many of the YouTube channels abroad. But in the future, YouTube may start to display ads on all channels. As result, it may not be possible to use NC licensed content on YouTube anymore.<br><br>
 
 <div class="underline">My conclusion</div>
-As a YouTube channel owner I would be happy to upload any NC licensed Buddhist content on my channel. But as a creator of Buddhist content I would rather avoid working with NC licensed content because I may not be able to use it on my YouTube channel in the future.
+As a YouTube channel owner, I would be happy to upload any NC licensed Buddhist content on my channel. But as a creator of Buddhist content, I would rather avoid working with NC licensed content. In the future, it may not be possible to use it YouTube.

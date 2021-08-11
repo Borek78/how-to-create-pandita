@@ -15,4 +15,6 @@ layout: default
 
 {% include_relative  _includes/audiobook/8-using-the-cc-licenses-how-to-make-an-audiobook.md %}
 
+{% include_relative  _includes/audiobook/9-using-the-cc-licenses.md %}
+
 <script src="./js/script-audiobooks.js"></script>
