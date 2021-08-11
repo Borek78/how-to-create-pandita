@@ -24,7 +24,7 @@ The CC notices above may seem complicated. But if it is required by the situatio
 <div class="underline"> Only the copyright</div>
 </div>
 
-An important part of the CC licenses is that they allow to license only the copyright that an author has in the entire work. An example of this can be found in the example. The following sentence can be found in the notices:<br><br>
+An important characteristic of the CC licenses is that they allow to license only the copyright that an author has in the entire work. An example of this can be found in the example. The following sentence can be found in the notices:<br><br>
 
 “...his translation is licensed under CC BY license:”<br><br>
 
@@ -61,7 +61,7 @@ Yes, but it is important to prominently mark any third party material you incorp
 <div class="underline"> Combinations</div>
 </div>
 
-In the Imaginary example, three authors have their copyright in the audiobook: the author, the translator and the narrator. Each one of the them applied a different CC license on his work: CC-Zero, CC BY and CC BY-SA. In other words, three different CC licenses were applied to three different parts of a creative work.<br><br>
+In the imaginary example, three authors have their copyright in the audiobook: the author, the translator and the narrator. Each one of the them applied a different CC license on his work: CC-Zero, CC BY and CC BY-SA. In other words, three different CC licenses were applied to three different parts of a creative work.<br><br>
 
 Is it possible? Is it possible to combine CC licenses in this way?<br><br>
 

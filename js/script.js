@@ -1,3 +1,27 @@
+//change and enlarge the flag on mouse over
+document
+  .querySelector(".czech-flag-less-bright")
+  .addEventListener("mouseover", changeFlag);
+
+function changeFlag() {
+  console.log("blue");
+  const x = document.querySelector(".czech-flag-less-bright");
+  x.classList.add("czech-flag");
+  x.classList.remove("czech-flag-less-bright");
+}
+
+//change and enlarge the flag on mouse over
+document
+  .querySelector(".czech-flag")
+  .addEventListener("onmouseout", changeFlagBack);
+
+function changeFlagBack() {
+  console.log("blue");
+  const x = document.querySelector(".czech-flag");
+  x.classList.add("czech-flag-less-bright");
+  x.classList.remove("czech-flag");
+}
+
 //different color for menu:hover after vertical scroll
 window.addEventListener("scroll", changeColor);
 function changeColor() {

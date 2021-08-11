@@ -56,7 +56,7 @@ When you accessed the material originally did it come with any copyright notices
 
 </div>
 
-The original book is licensed under the CC-Zero license and so the translator does not have to mention the name of the author in his CC notice. But it is a good practice to do it.
+The original book is licensed under the CC-Zero license and so the translator does not have to mention the name of the author and the link to the original work. But it is a good practice to do it.<br><br>
 
 That means that the translator´s notice could look like this.
 
