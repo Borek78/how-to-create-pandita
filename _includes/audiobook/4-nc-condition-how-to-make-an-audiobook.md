@@ -57,4 +57,4 @@ Presently (August, 2021) YouTube does not display ads on these Buddhist YouTube 
 I have also not noticed any ads on many of the YouTube channels abroad. But in the future, YouTube may start to display ads on all channels. As result, it may not be possible to use NC licensed content on YouTube anymore.<br><br>
 
 <div class="underline">My conclusion</div>
-As a YouTube channel owner, I would be happy to upload any NC licensed Buddhist content on my channel. But as a creator of Buddhist content, I would rather avoid working with NC licensed content. In the future, I may have to delete it from the channel....
+As a YouTube channel owner, I would be happy to upload any NC licensed Buddhist content on my channel. But as a Buddhist content creator, I would rather avoid working with NC licensed content because it may not be possible to use on YouTube in the future.

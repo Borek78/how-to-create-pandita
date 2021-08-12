@@ -1,8 +1,8 @@
 <div id="using-the-cc-licenses" markdown="1">
-### CC LICENSES ANDjeky AUDIOBOOKS
+### CC LICENSES AND AUDIOBOOKS
 </div>
 
-Marking a creative work with a CC licence is usually done with a license notice that includes the name of the author, the name of the license and link to the license. There are a few marking examples on these two websites.<br><br>
+Marking a creative work with a CC licence is usually done with a license notice that includes the name of the author, the name of the license, a link to the license and a link to the original work. There are a few marking examples on these two websites.<br><br>
 
 <div class="do-not-break-out" markdown="1">
 
@@ -12,19 +12,19 @@ Marking a creative work with a CC licence is usually done with a license notice 
 
 </div>
 <br>
-But most of the examples mention only one author. Creating an audiobook in czech language will require permission of three authors.<br><br>
+But most of the examples mention only one author. Creating an audiobook in the Czech language will require permission of three creators.<br><br>
 
 <span>1.</span> Permission of the author.<br>
 <span>2.</span> Permission of the translator.<br>
 <span>3.</span> Permission of the narrator.<br><br>
 
-So what kind of marking should I use in this situation? Unfortunately, I have not found a good example to follow. So let me create one. I have made up the names.<br><br>
+So what kind of marking should I use in this situation? Unfortunately, I have not found a good example to follow. So let me create an imaginary example.<br><br>
 
 <div id="example" markdown="1">
 <div class="underline">Imaginary example</div>
 </div>
 
-Let me assume that there is a buddhist author Good Writer who wrote a book The Life of the Buddha. He published his book under the CC BY licence and the book is available online on the author´s website www.good-author-website.com. The following CC notice can be found in the book. <br>
+Let me assume that there is a buddhist author Good Writer who wrote a book The Life of the Buddha. He published his book under the CC-Zero licence and the book is available online on the author´s website www.good-author-website.com. The following CC notice can be found in the book. <br>
 
 <div class="citace">
 The Life of the Buddha was written by Good Writer and it is licensed under the CC-Zero license:<br>
