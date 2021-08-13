@@ -52,7 +52,7 @@ There are many ways you can do that. One of them is very simple. Keep this page 
 ### MY INSPIRATION
 </div>
 
-I am very inspired by Ajahn Sujato´s article Copy this! It is long article about Buddhism and copyright. The following three parts can be found in the article and, in my opinion, they summarize the article very well.<br><br>
+I am very inspired by Ajahn Sujato´s beautiful article Copy this! It is long article about Buddhism and copyright. The following three parts can be found in the article and, in my opinion, they summarize the article very well.<br><br>
 
 The article discuses primarily Buddhist scriptures but similar conclusion could be made when discussing Buddhist books.<br><br>
 
@@ -74,4 +74,14 @@ When I first made some translations, I offered them under a Creative Commons Att
 
 Ajahn Sujato translated the four Nikāyas from Pali into English and used CC-zero license to place his translation in the public domain. <br> <br>
 
-Unfortuantely, the CC-Zero can not be used in the Czech Republic. The czech copyright law does not allow to waive all copyright. Therefore, the czech CC license experts recommend using CC BY license instead.
+After reading Ajahn Sujato´s article I decided to use — whenever possible — the most liberal license. Unfortuantely, the CC-Zero can not be used in the Czech Republic. The czech copyright law does not allow to waive all copyright. Therefore, the czech CC license experts recommend using CC BY license instead.<br>
+
+### SUMMARY
+
+As a Buddhist content creator, I can make a very good use of books that are licensed under one of these three licenses: CC-Zero, CC BY and CC BY-SA. All the other licenses are too restrictive for my purposes.<br> <br>
+
+The CC licenses are not just a legal tool. They are also a communication tool and an encouragment for those who would like to translate Buddhist books or create audiobooks of them. The presence of CC notices in books can also encourage others to share books on their websites.<br> <br>
+
+I am still very new to using CC licenses for Dhamma sharing purposes. I welcome any feedback, comments or advice. <br> <br>
+
+If you used CC licenses for Dhamma sharing purposes, I would definitely like hear about it. Please feel free to write me an email about your success stories.<br> <br>

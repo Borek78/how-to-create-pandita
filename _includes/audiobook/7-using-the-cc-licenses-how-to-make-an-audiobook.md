@@ -24,22 +24,21 @@ So what kind of marking should I use in this situation? Unfortunately, I have no
 <div class="underline">Imaginary example</div>
 </div>
 
-Let me assume that there is a buddhist author Good Writer who wrote a book The Life of the Buddha. He published his book under the CC-Zero licence and the book is available online on the author´s website www.good-author-website.com. The following CC notice can be found in the book. <br>
+Let me assume that there is a Buddhist author Good Writer who wrote a book The Life of the Buddha. He published his book under the CC-Zero licence and the book is available online on the author´s website www.good-author-website.com. The following CC notice can be found in the book. <br>
 
 <div class="citace">
 The Life of the Buddha was written by Good Writer and it is licensed under the CC-Zero license:<br>
 <div class="do-not-break-out" markdown="1">
 [https://creativecommons.org/publicdomain/zero/1.0/deed.cs.](https://creativecommons.org/publicdomain/zero/1.0/deed.cs.)<br>
 </div>
-The book available on www.good-writer-website.com.
-
+The is book available on www.good-writer-website.com.
 </div>
 
-A few years later a czech citizen Good Translator finds the book online and he decides to translate it. The title of the czech translation is Buddhův život.<br><br>
+A few years later a czech volunteer Good Translator finds the book online and he decides to translate it. The title of the czech translation is Buddhův život.<br><br>
 
-Good Translator also wants his translation to be availalable under the CC BY license. How can he do that? What kind of CC notice should he include in his book?<br><br>
+Good Translator wants to publish his translation under the CC BY license. How can he do that? What kind of CC notice should he include in his book?<br><br>
 
-He certainly should not forget about the notice that is associated with the original work. A good practice is to copy and paste the original notice. <br><br>
+He certainly should not forget about the CC notice that is associated with the original work. A good practice is to copy and paste the original notice. <br><br>
 
 <div class="do-not-break-out" markdown="1">
 
@@ -52,13 +51,13 @@ He certainly should not forget about the notice that is associated with the orig
 <div class="citace" markdown="1">
 <b> Lastly, is there anything else I should know before I use it? </b><br><br>
 
-When you accessed the material originally did it come with any copyright notices; a notice that refers to the disclaimer of warranties; or a notice of previous modifications? (That was a mouthful!) Because that kind of legal mumbo jumbo is actually pretty important to potential users of the material. So best practice is to just retain all of that stuff by copying and pasting such notices into your attribution. Don't make it anymore complicated than it is -- just pass on any info you think is important.
+When you accessed the material originally did it come with any copyright notices; a notice that refers to the disclaimer of warranties; or a notice of previous modifications? (That was a mouthful!) Because that kind of legal mumbo jumbo is actually pretty important to potential users of the material. <span class="highlighted-text-green"> So best practice is to just retain all of that stuff by copying and pasting such notices into your attribution.</span> Don't make it anymore complicated than it is -- just pass on any info you think is important.
 
 </div>
 
 The original book is licensed under the CC-Zero license and so the translator does not have to mention the name of the author and the link to the original work. But it is a good practice to do it.<br><br>
 
-That means that the translator´s notice could look like this.
+This could be the translator´s CC notice.
 
 <div class="citace" markdown="1">
 The title of this book is Buddhův život. It is a Czech translation of a book  that was originally written in English. The title of the English original is The Life of the Buddha.<br><br>

@@ -2,7 +2,7 @@
 <div class="underline"> Complicated CC notice</div>
 </div>
 
-The CC notices above may seem complicated. But if it is required by the situation, complicated CC notices can be used. Different situations require more or less complicated and there no singular way to give a notice.<br><br>
+The CC notices above may seem complicated. But if it is required by the situation, complicated CC notices can be used. Different situations require more or less complicated notices and there is no singular way to give a notice.<br><br>
 
 <div class="do-not-break-out" markdown="1">
 [https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content#Notices_and_marking](https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content#Notices_and_marking)
@@ -24,7 +24,7 @@ The CC notices above may seem complicated. But if it is required by the situatio
 <div class="underline"> Only the copyright</div>
 </div>
 
-An important characteristic of the CC licenses is that they allow to license only the copyright that an author has in the entire work. An example of this can be found in the example. The following sentence can be found in the notices:<br><br>
+An important characteristic of the CC licenses is that they are applied only on the copyright that an author has in the entire work. An example of this can be found in the imaginary example. The following sentence can be found in the CC notices:<br><br>
 
 “...his translation is licensed under CC BY license:”<br><br>
 

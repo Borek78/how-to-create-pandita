@@ -34,12 +34,12 @@ But there are two issues with this option.<br><br>
 What happens if I die and YouTube decides to terminate my YouTube channel? Is there anyone else who is allowed to upload the book online? No. If I am the only person with permission, nobody else is allowed to upload the book online. As a result, the audiobook may not be accessible to the general public anymore.<br><br>
 
 <div class="underline">Community support</div>
-In order to publish an audiobook, I will have to find a narrator. This could be a volunteer or a professional actor. I may also need to do some fundraising. In other words, I will certainly need support of our local Buddhist community.<br><br>
+In order to publish an audiobook, I will have to find a narrator. This could be a volunteer or a professional actor. I may also need to do some fundraising. In other words, I will certainly need the support of our local Buddhist community.<br><br>
 
-However, the members of our local comunity may hesitate to support me. They may have this question in their mind:
+However, the members of our local community may hesitate to support me. They may have this question in their mind:
 
 <div class="citace" markdown="1">
-„This is a nice book. It would be good to make an audiobook of it. But Dalibor is the only person who has the permission to share the audiobook publicly. One day Dalibor is going to die and YouTube may terminate his YouTube channel. As a result, the book may not be accessible to the general public anymore. Isn't there a better way to organize this?“
+„This is a nice book. It would be good to make an audiobook of it. But Dalibor is the only person with permission to share the audiobook publicly. One day Dalibor is going to die and YouTube may terminate his YouTube channel. As a result, the book may not be accessible to the general public anymore. Isn't there a better way to organize this?“
 </div>
 
-The good news is that there is a better to organize publishing of Buddhist audiobooks. The CC licenses are a good tool that could be used for this purpose.
+The good news is that there is a better to organize the publishing of Buddhist audiobooks. The CC licenses are a good tool that could be used for this purpose.

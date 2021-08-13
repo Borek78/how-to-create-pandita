@@ -2,7 +2,7 @@
 ### NC CONDITION
 </div>
 
-Three of the CC licenses have the NC condition included. However, I have already discussed the CC BY-NC-ND lincense in the previous part and, therefore, only the two following licenses are discussed in this part. <br><br>
+Three of the CC licenses have the NC condition included. However, I have already discussed the CC BY-NC-ND license in the previous part and, therefore, only the two following licenses are discussed in this part. <br><br>
 
 <div class="do-not-break-out" markdown="1">
 
@@ -11,13 +11,13 @@ Three of the CC licenses have the NC condition included. However, I have already
 
 </div><br>
 
-These two licences do not include the ND condition and they certainly can be used if the author wishes to:<br>
+These two licenses do not include the ND condition and they certainly can be used if the author wishes to:<br>
 
-- give a permission to translate his book and let the translator share his translation publicaly<br>
+- give permission to translate his book and let the translator share his translation publicly<br>
 
-- give a permission to create an audiobook and let the creator share the audiobook publicaly<br><br>
+- give permission to create an audiobook and let the creator share the audiobook publicly<br><br>
 
-There are a few obvious consequences of using a NC license. Any book licensed with a NC license:<br>
+There are a few obvious consequences of using an NC license. Any book licensed with an NC license:<br>
 
 - can not be used for commercial purposes<br>
 
@@ -25,7 +25,7 @@ There are a few obvious consequences of using a NC license. Any book licensed wi
 
 - an audiobook made of the translation can not be used for commercial purposes<br><br>
 
-And what about YouTube? Is it possible to use NC licensed audiobooks on YouTube? <br><br>
+And what about YouTube? Is it possible to use NC-licensed audiobooks on YouTube? <br><br>
 
 <div class="underline">NC licenses and YouTube </div>
  All CC licenses can be used on YouTube. This information can be found on the Creative Commons Corporation website.
@@ -36,7 +36,7 @@ And what about YouTube? Is it possible to use NC licensed audiobooks on YouTube?
 </div>
 
 <div class="citace">
-„For third-party platforms: Many media platforms like Flickr, YouTube, and SoundCloud have built-in Creative Commons capabilities, letting users mark their material with a CC license through their account settings. The benefit of using this functionality is that it allows other people to find your content when searching those plattforms for CC-licensed material. If the platform where you’re uploading your content does not support CC licensing, you can still identify your content as CC-licensed in the text description of your content.“
+„For third-party platforms: Many media platforms like Flickr, YouTube, and SoundCloud have built-in Creative Commons capabilities, letting users mark their material with a CC license through their account settings. The benefit of using this functionality is that it allows other people to find your content when searching those platforms for CC-licensed material. If the platform where you’re uploading your content does not support CC licensing, you can still identify your content as CC-licensed in the text description of your content.“
 </div>
 
 But YouTube can display ads on any YouTUbe channel. This information can be found in YouTube´s Terms of Service.<br><br>
@@ -50,9 +50,9 @@ But YouTube can display ads on any YouTUbe channel. This information can be foun
 You grant to YouTube the right to monetize your Content on the Service (and such monetization may include displaying ads on or within Content or charging users a fee for access). This Agreement does not entitle you to any payments. Starting June 1, 2021, any payments you may be entitled to receive from YouTube under any other agreement between you and YouTube (including for example payments under the YouTube Partner Program, Channel memberships or Super Chat) will be treated as royalties. If required by law, Google will withhold taxes from such payments.
 </div>
 
-[the text above was copied from the british version of Terms of Service but the same condition can be found in the Czech version]<br><br>
+[the text above was copied from the British version of Terms of Service but the same condition can be found in the Czech version]<br><br>
 
-Presently (August, 2021) YouTube does not display ads on these Buddhist YouTube channels in the Czech Republic: [PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew), [BuddhaSasana](https://www.youtube.com/channel/UCp4wUT7j5OQ7XCUHfs6rUcA) and [Ajahn Brahm česky](https://www.youtube.com/channel/UCUr-lRBB59mFLyKFhAAbXbg).<br><br>
+Presently (August 2021) YouTube does not display ads on these Buddhist YouTube channels in the Czech Republic: [PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew), [BuddhaSasana](https://www.youtube.com/channel/UCp4wUT7j5OQ7XCUHfs6rUcA), and [Ajahn Brahm česky](https://www.youtube.com/channel/UCUr-lRBB59mFLyKFhAAbXbg).<br><br>
 
 I have also not noticed any ads on many of the YouTube channels abroad. But in the future, YouTube may start to display ads on all channels. As result, it may not be possible to use NC licensed content on YouTube anymore.<br><br>
 

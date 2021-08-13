@@ -13,8 +13,8 @@ layout: default
 {% include_relative  _includes/audiobook/6-cc-zero-and-cc-by-how-to-make-an-audiobook.md %}
 {% include_relative  _includes/audiobook/7-using-the-cc-licenses-how-to-make-an-audiobook.md %}
 
-{% include_relative  _includes/audiobook/8-using-the-cc-licenses-how-to-make-an-audiobook.md %}
+{% include_relative  _includes/audiobook/8-complicated-cc-notices.md %}
 
-{% include_relative  _includes/audiobook/9-using-the-cc-licenses.md %}
+{% include_relative  _includes/audiobook/9-additional-benefits.md %}
 
 <script src="./js/script-audiobooks.js"></script>

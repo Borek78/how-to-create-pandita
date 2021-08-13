@@ -8,7 +8,7 @@ These two licenses have the Share-alike (SA) condition. <br><br>
 [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)<br><br>
 
 <div class="underline"> Share alike explanation </div>
-If a book is published under a CC BY-SA license, the translator also has publish his translation under the CC BY-SA license. As a result, the audiobook creator also has to publish his work under the CC BY-SA license.<br><br>
+If a book is published under a CC BY-SA license, the translator also has to publish his translation under the CC BY-SA license. As a result, the audiobook creator also has to publish his work under the CC BY-SA license.<br><br>
 
 And the same applies to the CC BY-SA-NC license.<br><br>
 

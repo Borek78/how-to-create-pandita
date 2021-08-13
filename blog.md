@@ -11,7 +11,9 @@ layout: default
 <div class="no-link-underline" markdown="1" >
 <!--### [Jak tvořit titulky](jak-tvorit-titulky.html) <br>-->
 
-### [Audiobooks, CC licenses and sharing the Dhamma](how-to-make-an-audiobook.html)
+### [Audiobooks, CC Licenses and Sharing the Dhamma](how-to-make-an-audiobook.html)
+
+### [Terms of Use](terms-of-use.html)
 
 </div>
 </div>
