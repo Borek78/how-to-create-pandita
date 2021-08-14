@@ -2,7 +2,7 @@
 ### CC LICENSES AND AUDIOBOOKS
 </div>
 
-Marking a creative work with a CC licence is usually done with a license notice that includes the name of the author, the name of the license, a link to the license and a link to the original work. There are a few marking examples on these two websites.<br><br>
+Marking a creative work with a CC license is usually done with a license notice that includes the name of the author, the name of the license, a link to the license, and a link to the original work. There are a few marking examples on these two websites.<br><br>
 
 <div class="do-not-break-out" markdown="1">
 
@@ -12,7 +12,7 @@ Marking a creative work with a CC licence is usually done with a license notice 
 
 </div>
 <br>
-But most of the examples mention only one author. Creating an audiobook in the Czech language will require permission of three creators.<br><br>
+But most of the examples mention only one author. Creating an audiobook in the Czech language will require the permission of three creators.<br><br>
 
 <span>1.</span> Permission of the author.<br>
 <span>2.</span> Permission of the translator.<br>
@@ -24,7 +24,7 @@ So what kind of marking should I use in this situation? Unfortunately, I have no
 <div class="underline">Imaginary example</div>
 </div>
 
-Let me assume that there is a Buddhist author Good Writer who wrote a book The Life of the Buddha. He published his book under the CC-Zero licence and the book is available online on the author´s website www.good-author-website.com. The following CC notice can be found in the book. <br>
+Let me assume that there is a Buddhist author Good Writer who wrote the book The Life of the Buddha. He published his book under the CC-Zero license and the book is available online on the author´s website www.good-author-website.com. The following CC notice can be found in the book. <br>
 
 <div class="citace">
 The Life of the Buddha was written by Good Writer and it is licensed under the CC-Zero license:<br>
@@ -34,7 +34,7 @@ The Life of the Buddha was written by Good Writer and it is licensed under the C
 The is book available on www.good-writer-website.com.
 </div>
 
-A few years later a czech volunteer Good Translator finds the book online and he decides to translate it. The title of the czech translation is Buddhův život.<br><br>
+A few years later a Czech volunteer Good Translator finds the book online and he decides to translate it. The title of the Czech translation is Buddhův život.<br><br>
 
 Good Translator wants to publish his translation under the CC BY license. How can he do that? What kind of CC notice should he include in his book?<br><br>
 
@@ -46,12 +46,12 @@ He certainly should not forget about the CC notice that is associated with the o
 
 </div><br>
 
-[ the text bellow can be found on the website above, you just need scroll down ]<br>
+[ the text below can be found on the website above, you just need to scroll down ]<br>
 
 <div class="citace" markdown="1">
 <b> Lastly, is there anything else I should know before I use it? </b><br><br>
 
-When you accessed the material originally did it come with any copyright notices; a notice that refers to the disclaimer of warranties; or a notice of previous modifications? (That was a mouthful!) Because that kind of legal mumbo jumbo is actually pretty important to potential users of the material. <span class="highlighted-text-green"> So best practice is to just retain all of that stuff by copying and pasting such notices into your attribution.</span> Don't make it anymore complicated than it is -- just pass on any info you think is important.
+When you accessed the material originally did it come with any copyright notices; a notice that refers to the disclaimer of warranties; or a notice of previous modifications? (That was a mouthful!) Because that kind of legal mumbo jumbo is actually pretty important to potential users of the material. <span class="highlighted-text-green"> So best practice is to just retain all of that stuff by copying and pasting such notices into your attribution.</span> Don't make it more complicated than it is -- just pass on any info you think is important.
 
 </div>
 
@@ -111,7 +111,7 @@ The audiobook was narrated by Good Narrator and his narration is licensed under 
 <div class="do-not-break-out" markdown="1">
 [https://creativecommons.org/licenses/by-sa/4.0/.](https://creativecommons.org/licenses/by-sa/4.0/.)<br>
 
-This audiobook was first published on PANDITA CZ youtube channel: [https://www.youtube.com/c/PanditaCZ](https://www.youtube.com/c/PanditaCZ)
+This audiobook was first published on the PANDITA CZ youtube channel: [https://www.youtube.com/c/PanditaCZ](https://www.youtube.com/c/PanditaCZ)
 
 </div>
 </div>

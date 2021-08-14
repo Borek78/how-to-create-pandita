@@ -24,13 +24,13 @@ The CC notices above may seem complicated. But if it is required by the situatio
 <div class="underline"> Only the copyright</div>
 </div>
 
-An important characteristic of the CC licenses is that they are applied only on the copyright that an author has in the entire work. An example of this can be found in the imaginary example. The following sentence can be found in the CC notices:<br><br>
+An important characteristic of the CC licenses is that they are applied only to the copyright that an author has in the entire work. An example of this can be found in the imaginary example: the following sentence can be found in the CC notices.<br><br>
 
 “...his translation is licensed under CC BY license:”<br><br>
 
-The sentence claims that only the translation is licensed under CC BY. It does not claim that „the traslated text is licensed under CC BY license“. <br><br>
+The sentence says that only the translation is licensed under CC BY. It does not say that „the translated text is licensed under CC BY license“. <br><br>
 
-The translated text includes work of both the writer and the translator. Therefore, the translator can not apply the license on the text of the traslated book. He can apply the license only on his work – his translation.<br><br>
+The translated text includes the work of both the writer and the translator. Therefore, the translator can not apply the license to the text of the translated book. He can only apply the license to his work – his translation.<br><br>
 
 There is more information about this topic on the following pages:<br><br>
 
@@ -41,7 +41,7 @@ There is more information about this topic on the following pages:<br><br>
 <div class="citace" markdown="1">
 „May I apply a CC license to my work if it incorporates material used under fair use or another exception or limitation to copyright?<br><br>
 
-Yes, but it is important to prominently mark any third party material you incorporate into your work so reusers do not think the CC license applies to that material. <span class="highlighted-text-green">The CC license only applies to the rights you have in the work. </span>For example, if your CC-licensed slide deck includes a Flickr image you are using pursuant to fair use, make sure to identify that image as not being subject to the CC license. For more information about incorporating work owned by others, see our page about marking third party content. Read more considerations for licensors here.“
+Yes, but it is important to prominently mark any third party material you incorporate into your work so reusers do not think the CC license applies to that material. <span class="highlighted-text-green">The CC license only applies to the rights you have in the work. </span>For example, if your CC-licensed slide deck includes a Flickr image you are using pursuant to fair use, make sure to identify that image as not being subject to the CC license. For more information about incorporating work owned by others, see our page about marking third-party content. Read more considerations for licensors here.“
 
 </div>
 
@@ -50,7 +50,7 @@ Yes, but it is important to prominently mark any third party material you incorp
 </div><br>
 
 <div style="text-align:center" markdown="1">
-[citovaná pasáž je ve druhém odstavci]
+[look for the second paragraph]
 </div >
 
 <div class="citace" markdown="1">
@@ -61,7 +61,7 @@ Yes, but it is important to prominently mark any third party material you incorp
 <div class="underline"> Combinations</div>
 </div>
 
-In the imaginary example, three authors have their copyright in the audiobook: the author, the translator and the narrator. Each one of the them applied a different CC license on his work: CC-Zero, CC BY and CC BY-SA. In other words, three different CC licenses were applied to three different parts of a creative work.<br><br>
+In the imaginary example, three authors have their copyright in the audiobook: the author, the translator, and the narrator. Each one of them applied a different CC license to his work: CC-Zero, CC BY, and CC BY-SA. In other words, three different CC licenses were applied to three different parts of the creative work.<br><br>
 
 Is it possible? Is it possible to combine CC licenses in this way?<br><br>
 
@@ -75,13 +75,13 @@ Yes, CC licenses can be combined. But not all licenses are compatible. There is 
 <div class="underline"> Real example</div>
 </div>
 
-People like creating audiobooks for other people. For free. The LibriVox project is wonderfull example of this. It also shows the potential of the CC licenses for sharing the Dhamma. <br><br>
+People like creating audiobooks for other people. For free. The LibriVox project is a wonderful example of this. It also shows the potential of the CC licenses for sharing the Dhamma. <br><br>
 
 <div class="do-not-break-out" markdown="1">
 [https://librivox.org](https://librivox.org)
 </div><br>
 
-All the audiobooks on the LibriVox Page are in the public domain. In other words, both the book and the narration are in the public domain. Dhammapada is one of the books that is available on the LibriVox website.<br><br>
+All the audiobooks on the LibriVox website are in the public domain. In other words, both the book and the narration are in the public domain. Dhammapada is one of the books that is available on the LibriVox website.<br><br>
 
 [https://librivox.org/search?q=dhammapada&search_form=advanced](https://librivox.org/search?q=dhammapada&search_form=advanced)<br><br>
 
@@ -89,4 +89,4 @@ One of the Dhammapada versions is also available on YouTube.<br><br>
 
 [https://www.youtube.com/watch?v=cD6TCxizFjs](https://www.youtube.com/watch?v=cD6TCxizFjs)<br><br>
 
-The marking in this example is done be the CC-Zero symbol at the bottom of the website. There is also a short audio note in the Dhammapada recording.<br><br>
+The marking in this example is done with the CC-Zero symbol at the bottom of the website. There is also a short audio note in the Dhammapada recording.<br><br>

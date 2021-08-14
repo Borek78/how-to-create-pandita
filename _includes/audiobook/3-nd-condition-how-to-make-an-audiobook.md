@@ -13,13 +13,13 @@ Two of the CC licenses have the ND condition included. Books published under one
 </div>
 
  <div class="underline">Legal code </div>
-The legal code version of these two licenses gives the same reply. It just a bit more technical.<br><br>
+The legal code version of these two licenses gives the same reply. It is just a bit more technical.<br><br>
 
 [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/legalcode)<br>
 
 [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)<br><br>
 
-Both translations and audiobooks are considered to be an adapated material and, according to the legal code, adapted material can not be shared.<br><br>
+According to the legal code, both translations and audiobooks are adapted material and adapted material can not be shared.<br><br>
 
 Translations are explicitly mentioned. Audiobooks are not. But audiobooks are a material in which the Licensed Material is "modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor."
 
@@ -39,5 +39,5 @@ A. reproduce and Share the Licensed Material, in whole or in part; and<br>
 
 <div class="citace">
 <b>Section 1 - definitions</b><br><br>
-<b>Adapted Material</b> means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is <span class="highlighted-text-blue">translated,</span> altered, arranged, transformed, or otherwise <span class="highlighted-text-blue">modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor.</span> For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
+<b>Adapted Material</b> means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is <span class="highlighted-text-blue">translated,</span> altered, arranged, transformed, or otherwise <span class="highlighted-text-blue">modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor.</span> For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed-relation with a moving image.
 </div>

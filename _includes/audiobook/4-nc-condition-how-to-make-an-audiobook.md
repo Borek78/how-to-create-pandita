@@ -11,11 +11,11 @@ Three of the CC licenses have the NC condition included. However, I have already
 
 </div><br>
 
-These two licenses do not include the ND condition and they certainly can be used if the author wishes to:<br>
+These two licenses do not include the ND condition and they certainly can be used if the author wishes to grant permission:<br>
 
-- give permission to translate his book and let the translator share his translation publicly<br>
+- to translate his book and let the translator share his translation publicly<br>
 
-- give permission to create an audiobook and let the creator share the audiobook publicly<br><br>
+- to create an audiobook and let the creator share the audiobook publicly<br><br>
 
 There are a few obvious consequences of using an NC license. Any book licensed with an NC license:<br>
 
@@ -57,4 +57,4 @@ Presently (August 2021) YouTube does not display ads on these Buddhist YouTube c
 I have also not noticed any ads on many of the YouTube channels abroad. But in the future, YouTube may start to display ads on all channels. As result, it may not be possible to use NC licensed content on YouTube anymore.<br><br>
 
 <div class="underline">My conclusion</div>
-As a YouTube channel owner, I would be happy to upload any NC licensed Buddhist content on my channel. But as a Buddhist content creator, I would rather avoid working with NC licensed content because it may not be possible to use on YouTube in the future.
+As a YouTube channel owner, I would be happy to upload any NC licensed Buddhist content on my channel. But as a Buddhist content creator, I would rather avoid working with NC licensed content because it may not be possible to use it on YouTube in the future.
