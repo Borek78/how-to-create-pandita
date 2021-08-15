@@ -3,6 +3,7 @@
 ### ADDITIONAL BENEFITS
 
 </div>
+
 The CC licenses are not useful only for creating audiobooks. There are other benefits of using them.<br><br>
 
 <div class="underline"> Permanent permission </div>
@@ -74,7 +75,9 @@ When I first made some translations, I offered them under a Creative Commons Att
 
 After reading Ajahn Sujato´s article I decided to use — whenever possible — the most liberal license. Unfortunately, the CC-Zero can not be used in the Czech Republic. The Czech copyright law does not allow to waive all copyright. Therefore, the Czech CC license experts recommend using the CC BY license instead.<br>
 
+<div id="summary" markdown="1">
 ### SUMMARY
+</div>
 
 As a Buddhist content creator, I can make very good use of books that are licensed under one of these three licenses: CC-Zero, CC BY, and CC BY-SA. All the other licenses are too restrictive for my activities.<br> <br>
 

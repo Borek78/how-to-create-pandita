@@ -19,8 +19,11 @@ comments: true
 
 {% include_relative  _includes/audiobook/9-additional-benefits.md %}
 
-<div style="isplay: none" markdown="1">
+<div id="comments" markdown="1">
+
 ### COMMENTS
+
+</div>
 
 <div id="disqus_thread"></div>
 <script>
@@ -41,7 +44,6 @@ comments: true
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-</div>
 
 <script id="dsq-count-scr" src="//audiobooks-cc-licenses-and-sharing-the-dhamma-2.disqus.com/count.js" async></script>
 
