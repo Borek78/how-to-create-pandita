@@ -19,7 +19,7 @@ comments: true
 
 {% include_relative  _includes/audiobook/9-additional-benefits.md %}
 
-<div style="display: none">
+<div style="isplay: none" markdown="1">
 ### COMMENTS
 
 <div id="disqus_thread"></div>
@@ -27,9 +27,9 @@ comments: true
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
+ /*
     var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.url = https://borek78.github.io/how-to-create-pandita/how-to-make-an-audiobook.html;  
     this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
     */

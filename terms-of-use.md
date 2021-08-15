@@ -12,7 +12,7 @@ I wish that everyone can use all my articles on this blog. I wish that the artic
 This is a more formal CC notice.<br>
 
 <div class="citace" markdown="1">
-Except where otherwise stated, the texts on this website were written by Dalibor Pavlik and they are licensed under the [CC BY license](https://creativecommons.org/publicdomain/by/4.0/).
+Except where otherwise stated, the articles on this website were written by Dalibor Pavlik and they are licensed under the [CC BY license](https://creativecommons.org/publicdomain/by/4.0/).
 </div>
 
 <div class="underline">The template</div>
