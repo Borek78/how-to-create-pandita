@@ -24,7 +24,7 @@ The CC notices above may seem complicated. But if it is required by the situatio
 <div class="underline"> Only the copyright</div>
 </div>
 
-An important characteristic of the CC licenses is that they are applied only to the copyright that an author has in the entire work. An example of this can be found in the imaginary example: the following sentence can be found in the CC notices.<br><br>
+An important characteristic of the CC licenses is that they are applied only to the copyright that an author has in the entire work. The following sentence can be found in the imaginary example. <br><br>
 
 “...his translation is licensed under CC BY license:”<br><br>
 

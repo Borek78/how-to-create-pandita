@@ -1,3 +1,11 @@
+.button-code {
+  color: white;
+  background: green;
+  border-radius: 3px;
+  padding: 3px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
 .mobile-flag {
   background-size: 24px 16px;
   width: 24px;
@@ -81,7 +89,7 @@ a#podminky-uziti:hover {
 
 #div-pata {
   color: white;
-  width: 460px;
+  width: 450px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;

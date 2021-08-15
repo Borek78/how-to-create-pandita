@@ -24,7 +24,7 @@ So what kind of marking should I use in this situation? Unfortunately, I have no
 <div class="underline">Imaginary example</div>
 </div>
 
-Let me assume that there is a Buddhist author Good Writer who wrote the book The Life of the Buddha. He published his book under the CC-Zero license and the book is available online on the author´s website www.good-author-website.com. The following CC notice can be found in the book. <br>
+Let me assume that there is a Buddhist author Good Writer who wrote a book The Life of the Buddha. He published his book under the CC-Zero license and the book is available online on the author´s website www.good-author-website.com. The following CC notice can be found in the book. <br>
 
 <div class="citace">
 The Life of the Buddha was written by Good Writer and it is licensed under the CC-Zero license:<br>
@@ -71,7 +71,7 @@ The Life of the Buddha was written by Good Author and it is licensed under the C
 The book is available on www.good-author-website.com.<br><br>
 
 Buddhův život was translated into the Czech language by Good Translator and his
-translation is licensed under CC BY license:<br>
+translation is licensed under the CC BY license:<br>
 
 <div class="do-not-break-out" markdown="1">
 [https://creativecommons.org/licenses/by/4.0/.](https://creativecommons.org/licenses/by/4.0/.)<br>
@@ -97,7 +97,7 @@ The Life of the Buddha was written by Good Author and it is licensed under the C
 The book is available on www.good-author-website.com.
 <br><br>
 
-Buddhův život was translated by Good Translator and his translation is licensed under CC-BY license:<br>
+Buddhův život was translated by Good Translator and his translation is licensed under the CC BY license:<br>
 
 <div class="do-not-break-out" markdown="1">
 [https://creativecommons.org/licenses/by/4.0/.](https://creativecommons.org/licenses/by/4.0/.)<br>
@@ -106,7 +106,7 @@ Buddhův život was translated by Good Translator and his translation is license
 The translation is available on www.good-translator-website.com
 <br><br>
 
-The audiobook was narrated by Good Narrator and his narration is licensed under CC BY-SA license:<br>
+The audiobook was narrated by Good Narrator and his narration is licensed under the CC BY-SA license:<br>
 
 <div class="do-not-break-out" markdown="1">
 [https://creativecommons.org/licenses/by-sa/4.0/.](https://creativecommons.org/licenses/by-sa/4.0/.)<br>

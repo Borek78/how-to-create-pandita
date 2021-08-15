@@ -52,9 +52,11 @@ You grant to YouTube the right to monetize your Content on the Service (and such
 
 [the text above was copied from the British version of Terms of Service but the same condition can be found in the Czech version]<br><br>
 
-Presently (August 2021) YouTube does not display ads on these Buddhist YouTube channels in the Czech Republic: [PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew), [BuddhaSasana](https://www.youtube.com/channel/UCp4wUT7j5OQ7XCUHfs6rUcA), and [Ajahn Brahm česky](https://www.youtube.com/channel/UCUr-lRBB59mFLyKFhAAbXbg).<br><br>
+In the Czech Republic, the Right to Monetize agreement has been added to the Terms of Services on 1.06.2021. Only once I have noticed an ad on my channel [PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew). I do no know what it means. Perhaps YouTube is not going to monetize my channel?<br><br>
 
-I have also not noticed any ads on many of the YouTube channels abroad. But in the future, YouTube may start to display ads on all channels. As result, it may not be possible to use NC licensed content on YouTube anymore.<br><br>
+I have not noticed any ads on many YouTube channels. Usually these channels are owned by non-profit organizations. It seems to me that YouTube does not monetize these channels at the moment. But in the future, YouTube may start to display ads on all channels. As result, it may not be possible to use NC licensed content on YouTube.<br><br>
 
 <div class="underline">My conclusion</div>
-As a YouTube channel owner, I would be happy to upload any NC licensed Buddhist content on my channel. But as a Buddhist content creator, I would rather avoid working with NC licensed content because it may not be possible to use it on YouTube in the future.
+As a YouTube channel owner, I would hesitate to upload any NC licensed Buddhist content on my channel. Presently I am not sure if YouTube is displaying ads on my channel. <br><br>
+
+But as a Buddhist content creator, I would rather avoid working with NC licensed content because it may not be possible to use it on YouTube in the future.<br><br>

@@ -1,6 +1,6 @@
-# AUDIOBOOKS, CC LICENSES AND SHARING THE DHAMMA
+# AUDIOBOOKS, CC LICENSES, AND SHARING THE DHAMMA
 
-From 2005 to 2015 I was publishing Dhamma books in the Czech language for free distribution. Dharma zdarma (Free Dharma) was the name of the project. The website of the project is still available on
+From 2005 to 2015 I was publishing Dhamma books in the Czech language for free distribution. Dharma zdarma (Free Dharma) was the name of my project. The website of the project is still available on
 
 <div class="do-not-break-out" markdown="1">
 [www.dharmazdarma.cz.](http://www.dharmazdarma.cz/) 
