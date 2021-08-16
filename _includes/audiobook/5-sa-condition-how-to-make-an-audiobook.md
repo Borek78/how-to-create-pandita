@@ -8,16 +8,16 @@ These two licenses have the Share-alike (SA) condition. <br><br>
 [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)<br><br>
 
 <div class="underline"> Share alike explanation </div>
-If a book is published under a CC BY-SA license, the translator also has to publish his translation under the CC BY-SA license. As a result, the audiobook creator also has to publish his work under the CC BY-SA license.<br><br>
+If a book is published under the CC BY-SA license, the translator also has to publish his translation under the CC BY-SA license. As a result, the audiobook creator also has to publish his work under the CC BY-SA license.<br><br>
 
 And the same applies to the CC BY-SA-NC license.<br><br>
 
-If a book is published under a CC BY-SA-NC license, the translator also has to publish his translation under the CC BY-SA-NC license. As a result, the audiobook creator also has to publish his work under the CC BY-SA-NC license.<br><br>
+If a book is published under the CC BY-SA-NC license, the translator also has to publish his translation under the CC BY-SA-NC license. As a result, the audiobook creator also has to publish his work under the CC BY-SA-NC license.<br><br>
 
 In other words, the SA condition pushes other creators to waive their copyright. <br><br>
 
 <div class="underline">CC BY-SA and commercial use</div>
-The NC condition is not part of this license and, therefore, any book available under CC BY-SA can be used for commercial purposes.<br><br>
+The NC condition is not part of this license and, therefore, any book available under the CC BY-SA license can be used for commercial purposes.<br><br>
 
 However, a best-seller licensed under the CC BY-SA license can be printed for sale also by all the competitors. This might be very discouraging for many publishing companies. <br><br>
 
@@ -26,7 +26,7 @@ And what about audiobooks? Is it possible to make money on audiobooks that are p
 <div class="underline">CC BY-SA and YouTube</div>
 Could YouTube add this statement into the Terms of Services in the future?<br><br>
 
-“It is not allowed to upload content licensed under the CC BY-SA license.”<br><br>
+“Use of the CC BY-SA license is not allowed on YouTube.”<br><br>
 
 I do not think it is very likely. The more content on YouTube the better for YouTube. YouTube is a commercial project and they can financially benefit from all the content available on the platform.<br><br>
 

@@ -4,7 +4,7 @@
 CC licenses are an announcement made to the public. The following words summarize it.
 
 <div class="citace" markdown="1">
- „Hello everyone, you can use my work. You just have to comply with the conditions set by the license used. But do now worry too much about these conditions. They are very easy to understand and comply with.“ 
+ „Hello everyone, you can use my work. You just have to comply with the conditions set by the license used. But do not worry too much about these conditions. They are very easy to understand and comply with.“ 
  </div>
 
 There are seven licenses that an author or a copyright holder can apply to his/her work.<br><br>
@@ -20,6 +20,6 @@ There are seven licenses that an author or a copyright holder can apply to his/h
 
 [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)<br><br>
 
-[the names of the seven licenses above are linked to the easy to read — Commons Deed — versions of the licenses]<br><br>
+[the names of the seven licenses above are linked to the easy to read — Commons Deed — version of the licenses]<br><br>
 
-However, not all these CC licenses are suitable for permitting other people to translate a book and/or create an audiobook.<br>
+However, not all these CC licenses are suitable for permitting to translate a book and/or create an audiobook.<br>

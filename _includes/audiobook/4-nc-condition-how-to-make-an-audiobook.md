@@ -39,7 +39,7 @@ And what about YouTube? Is it possible to use NC-licensed audiobooks on YouTube?
 „For third-party platforms: Many media platforms like Flickr, YouTube, and SoundCloud have built-in Creative Commons capabilities, letting users mark their material with a CC license through their account settings. The benefit of using this functionality is that it allows other people to find your content when searching those platforms for CC-licensed material. If the platform where you’re uploading your content does not support CC licensing, you can still identify your content as CC-licensed in the text description of your content.“
 </div>
 
-But YouTube can display ads on any YouTUbe channel. This information can be found in YouTube´s Terms of Service.<br><br>
+However, YouTube can display ads on any YouTUbe channel. This information can be found in YouTube´s Terms of Service.<br><br>
 
 <div class="do-not-break-out" markdown="1">
 [https://www.youtube.com/static?gl=GB&template=terms](https://www.youtube.com/static?gl=GB&template=terms)
@@ -52,11 +52,11 @@ You grant to YouTube the right to monetize your Content on the Service (and such
 
 [the text above was copied from the British version of Terms of Service but the same condition can be found in the Czech version]<br><br>
 
-In the Czech Republic, the Right to Monetize agreement has been added to the Terms of Services on 1.06.2021. Only once I have noticed an ad on my channel [PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew). I do no know what it means. Perhaps YouTube is not going to monetize my channel?<br><br>
-
 I have not noticed any ads on many YouTube channels. Usually these channels are owned by non-profit organizations. It seems to me that YouTube does not monetize these channels at the moment. But in the future, YouTube may start to display ads on all channels. As result, it may not be possible to use NC licensed content on YouTube.<br><br>
 
+I have seen only one ad on my channel [PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew) so far. I am not sure if YouTube is monetizing my channel. <br><br>
+
 <div class="underline">My conclusion</div>
-As a YouTube channel owner, I would hesitate to upload any NC licensed Buddhist content on my channel. Presently I am not sure if YouTube is displaying ads on my channel. <br><br>
+As a YouTube channel owner, I would hesitate to upload any NC licensed Buddhist content on my channel. At the moment, I am not sure if YouTube is monetizing my channel. <br><br>
 
 But as a Buddhist content creator, I would rather avoid working with NC licensed content because it may not be possible to use it on YouTube in the future.<br><br>

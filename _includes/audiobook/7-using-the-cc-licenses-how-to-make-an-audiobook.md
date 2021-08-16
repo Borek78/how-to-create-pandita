@@ -12,31 +12,31 @@ Marking a creative work with a CC license is usually done with a license notice 
 
 </div>
 <br>
-But most of the examples mention only one author. Creating an audiobook in the Czech language will require the permission of three creators.<br><br>
+But the examples mention only one or two authors. Creating an audiobook in the Czech language will require the permission of three creators.<br><br>
 
 <span>1.</span> Permission of the author.<br>
 <span>2.</span> Permission of the translator.<br>
 <span>3.</span> Permission of the narrator.<br><br>
 
-So what kind of marking should I use in this situation? Unfortunately, I have not found a good example to follow. So let me create an imaginary example.<br><br>
+So what kind of CC marking should I use for Dhamma audiobooks in the Czech language? Unfortunately, I have not found a good example to follow. So let me create an imaginary example.<br><br>
 
 <div id="example" markdown="1">
 <div class="underline">Imaginary example</div>
 </div>
 
-Let me assume that there is a Buddhist author Good Writer who wrote a book The Life of the Buddha. He published his book under the CC-Zero license and the book is available online on the author´s website www.good-author-website.com. The following CC notice can be found in the book. <br>
+Let me assume that there is a Buddhist author Good Writer and he wrote a book The Life of the Buddha. He published his book under the CC-Zero license and the book is available online on the author´s website www.good-author-website.com. The following CC notice can be found in the book. <br>
 
 <div class="citace">
 The Life of the Buddha was written by Good Writer and it is licensed under the CC-Zero license:<br>
 <div class="do-not-break-out" markdown="1">
 [https://creativecommons.org/publicdomain/zero/1.0/deed.cs.](https://creativecommons.org/publicdomain/zero/1.0/deed.cs.)<br>
 </div>
-The is book available on www.good-writer-website.com.
+The book is available on www.good-writer-website.com.
 </div>
 
 A few years later a Czech volunteer Good Translator finds the book online and he decides to translate it. The title of the Czech translation is Buddhův život.<br><br>
 
-Good Translator wants to publish his translation under the CC BY license. How can he do that? What kind of CC notice should he include in his book?<br><br>
+Good Translator wants to publish his translation under the CC BY license. How can he do that? What kind of CC notice should he use?<br><br>
 
 He certainly should not forget about the CC notice that is associated with the original work. A good practice is to copy and paste the original notice. <br><br>
 
@@ -70,7 +70,7 @@ The Life of the Buddha was written by Good Author and it is licensed under the C
 
 The book is available on www.good-author-website.com.<br><br>
 
-Buddhův život was translated into the Czech language by Good Translator and his
+The Life of the Buddha (Buddhův život) was translated into the Czech language by Good Translator and his
 translation is licensed under the CC BY license:<br>
 
 <div class="do-not-break-out" markdown="1">
@@ -83,10 +83,10 @@ The translation is available on www.good-translator-website.com<br>
 
 After some time, another volunteer decides to turn Buddhův život into an Audiobook. The name of the volunteer is Good Narrator. <br><br>
 
-Good Narrator narrates the book and the name of the audiobook is also Buddhův život. What kind of notice should he associate with his audiobook? This is a possible solution.
+Good Narrator narrates the book and the name of the audiobook is also Buddhův život. What kind of CC notice should be used for the audiobook? This is a possible solution.
 
 <div class="citace" markdown="1">
-The title of this audiobook is Buddhův život. It is was created of a book that was originally written in English and later it was translated into the Czech language. The title of the English original is The Life of the Buddha and the title of the Czech translation is also Buddhův život.<br><br>
+The title of this audiobook is Buddhův život. It is was made of a book that was originally written in English and later it was translated into the Czech language. The title of the English original is The Life of the Buddha and the title of the Czech translation is also Buddhův život.<br><br>
 
 The Life of the Buddha was written by Good Author and it is licensed under the CC-Zero license:<br>
 
@@ -97,7 +97,7 @@ The Life of the Buddha was written by Good Author and it is licensed under the C
 The book is available on www.good-author-website.com.
 <br><br>
 
-Buddhův život was translated by Good Translator and his translation is licensed under the CC BY license:<br>
+The Life of the Buddha (Buddhův život) was translated by Good Translator and his translation is licensed under the CC BY license:<br>
 
 <div class="do-not-break-out" markdown="1">
 [https://creativecommons.org/licenses/by/4.0/.](https://creativecommons.org/licenses/by/4.0/.)<br>

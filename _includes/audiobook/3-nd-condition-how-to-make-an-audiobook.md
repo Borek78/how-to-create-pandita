@@ -19,9 +19,11 @@ The legal code version of these two licenses gives the same reply. It is just a 
 
 [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)<br><br>
 
-According to the legal code, both translations and audiobooks are adapted material and adapted material can not be shared.<br><br>
+Both translations and audiobooks are adapted material and, according to the legal code, adapted material can not be shared.<br><br>
 
-Translations are explicitly mentioned. Audiobooks are not. But audiobooks are a material in which the Licensed Material is "modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor."
+Translations are explicitly mentioned. Audiobooks are not. But audiobooks are a material in which the Licensed Material is "modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor."<br><br>
+
+The following two parts can be found in the legal code and they are related to sharing translations and audiobooks.
 
 <div class="citace">
 <b>Section 2 – Scope.</b><br><br>

@@ -7,12 +7,14 @@
 The CC licenses are not useful only for creating audiobooks. There are other benefits of using them.<br><br>
 
 <div class="underline"> Permanent permission </div>
-While the authors and translators are still alive, they can permit the use of their work. After their passing away, they will not be able to give this permission.<br><br>
+While authors and translators are still alive, they can allow the use of their work. They will not be able to grant this permit after their death.<br><br>
 
 If the authors and translators apply the CC licenses to their work, it will be possible to use their work also when they are not around. That is another important benefit of using the CC licenses.<br><br>
 
+Sometimes a Buddhist organization inherits the copyright. But that is not always the case.<br><br>
+
 <div class="underline">Better sharing</div>
-There are a few books available on my dharmazdarma.cz website.<br><br>
+There are a few books available on my [dharmazdarma.cz](http://www.dharmazdarma.cz/) website.<br><br>
 
 However, other Buddhist groups do not reupload the books on their websites. Perhaps they assume that they are not allowed to do so. They do not have the copyright. As a result, the online presence of these books is entirely dependent on me.<br> <br>
 
@@ -31,7 +33,7 @@ The Life of the Buddha was written by Good Author and it is licensed under the C
 
 The book is available on www.good-author-website.com.<br> <br>
 
-Buddhův život was translated into the Czech language by Good Translator and his translation is licensed under CC BY license:<br>
+The Life of the Buddha (Buddhův život) was translated into the Czech language by Good Translator and his translation is licensed under CC BY license:<br>
 
 <div class="do-not-break-out" markdown="1">
 [https://creativecommons.org/publicdomain/zero/1.0/deed.cs.](https://creativecommons.org/publicdomain/zero/1.0/deed.cs.)
@@ -83,4 +85,4 @@ As a Buddhist content creator, I can make very good use of books that are licens
 
 The CC licenses are not just a legal tool. They are also a communication tool and an encouragement for those who would like to translate Buddhist books or create audiobooks of them. The presence of CC notices in books can also encourage others to share books on their websites.<br> <br>
 
-I am still very new to using CC licenses for sharing the Dhamma. I welcome any feedback, comments, or advice. <br> <br>
+I am still very new to using CC licenses for sharing the Dhamma. I welcome any feedback, comments, or advice. <br>
