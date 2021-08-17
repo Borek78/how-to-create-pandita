@@ -2,6 +2,17 @@
   font-family: arial;
 }
 
+#HCB_comment_box a {
+  border-bottom: 0px !important;
+}
+
+#HCB_comment_box #hcb_form .btn-secondary,
+#HCB_comment_box #HCB_comment_form_box .btn-secondary {
+  border: 1px solid #353535 !important;
+  background-color: white;
+  color: #353535;
+}
+
 .button-code {
   color: white;
   background: green;
