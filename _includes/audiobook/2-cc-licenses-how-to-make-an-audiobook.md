@@ -22,4 +22,4 @@ There are seven licenses that an author or a copyright holder can apply to his/h
 
 [the names of the seven licenses above are linked to the easy to read — Commons Deed — version of the licenses]<br><br>
 
-However, not all these CC licenses are suitable for permitting to translate a book and/or create an audiobook.<br>
+However, not all the CC licenses are suitable for permitting to translate a book and/or create an audiobook.<br>

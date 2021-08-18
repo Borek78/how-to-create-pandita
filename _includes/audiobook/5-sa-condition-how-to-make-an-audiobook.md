@@ -21,7 +21,7 @@ The NC condition is not part of this license and, therefore, any book available 
 
 However, a best-seller licensed under the CC BY-SA license can be printed for sale also by all the competitors. This might be very discouraging for many publishing companies. <br><br>
 
-And what about audiobooks? Is it possible to make money on audiobooks that are published under the CC BY-SA license? Probably not. The first buyer can share the book with anyone he wants. He can upload it on YouTube. He can even start selling the audiobook.<br><br>
+And what about audiobooks? Is it possible to make money on audiobooks that are published under the CC BY-SA license? Probably not. The first buyer can share the book with anyone he wants. He can upload it to YouTube. He can even start selling the audiobook.<br><br>
 
 <div class="underline">CC BY-SA and YouTube</div>
 Could YouTube add this statement into the Terms of Services in the future?<br><br>

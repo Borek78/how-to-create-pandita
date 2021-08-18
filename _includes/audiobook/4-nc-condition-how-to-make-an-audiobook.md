@@ -17,7 +17,7 @@ These two licenses do not include the ND condition and they certainly can be use
 
 - to create an audiobook and let the creator share the audiobook publicly<br><br>
 
-There are a few obvious consequences of using an NC license. Any book licensed with an NC license:<br>
+There are a few obvious consequences of using the NC licenses. A book licensed with an NC license:<br>
 
 - can not be used for commercial purposes<br>
 
@@ -57,6 +57,6 @@ I have not noticed any ads on many YouTube channels. Usually these channels are 
 I have seen only one ad on my channel [PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew) so far. I am not sure if YouTube is monetizing my channel. <br><br>
 
 <div class="underline">My conclusion</div>
-As a YouTube channel owner, I would hesitate to upload any NC licensed Buddhist content on my channel. At the moment, I am not sure if YouTube is monetizing my channel. <br><br>
+As a YouTube channel owner, I would hesitate to upload any NC licensed Buddhist content to my channel. At the moment, I am not sure if YouTube is monetizing my channel. <br><br>
 
 But as a Buddhist content creator, I would rather avoid working with NC licensed content because it may not be possible to use it on YouTube in the future.<br><br>
