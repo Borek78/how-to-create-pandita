@@ -16,7 +16,7 @@ Sometimes a Buddhist organization inherits the copyright. But that is not always
 <div class="underline">Better sharing</div>
 There are a few books available on my [dharmazdarma.cz](http://www.dharmazdarma.cz/) website.<br><br>
 
-However, other Buddhist groups do not reupload the books on their websites. Perhaps they assume that they are not allowed to do so. They do not have the copyright. As a result, the online presence of these books is entirely dependent on me.<br> <br>
+However, other Buddhist groups do not reupload the books to their websites. Perhaps they assume that they are not allowed to do so. They do not have the copyright. As a result, the online presence of these books is entirely dependent on me.<br> <br>
 
 Adding the last page with a CC notice could encourage others to reupload, translate and reuse the books. This is a CC notice that could be used on the last page.
 
@@ -45,7 +45,7 @@ The translation is available on www.good-translator-website.com<br> <br>
 
 CC licenses have been applied both to the original work and the translation and, therefore, you can freely use this book. It is available for both personal and public use. <br> <br>
 
-You can upload this book on your website, translate it or create an audiobook of it. You can also have it printed for your friends. You can even have it printed for sale. You just have to meet the conditions of the CC licenses.<br> <br>
+You can upload this book to your website, translate it or create an audiobook of it. You can also have it printed for your friends. You can even have it printed for sale. You just have to meet the conditions of the CC licenses.<br> <br>
 
 And how can CC license conditions be met?<br> <br>
 
