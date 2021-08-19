@@ -10,7 +10,7 @@ CC licenses are an announcement made to the public. The following words summariz
 There are seven licenses that an author or a copyright holder can apply to his/her work.<br><br>
 
 [CC-Zero](https://creativecommons.org/publicdomain/zero/1.0/)<br>
-[CC BY](https://creativecommons.org/publicdomain/by/4.0/)<br>
+[CC BY](https://creativecommons.org/licenses/by/4.0/)<br>
 [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)<br>
 
 [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)<br>

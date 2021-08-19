@@ -46,7 +46,7 @@ Yes, but it is important to prominently mark any third party material you incorp
 </div>
 
 <div class="do-not-break-out" markdown="1">
-[https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content](https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content)
+[https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content#Additional_explanation_and_tips](https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content#Additional_explanation_and_tips)
 </div><br>
 
 <div style="text-align:center" markdown="1">

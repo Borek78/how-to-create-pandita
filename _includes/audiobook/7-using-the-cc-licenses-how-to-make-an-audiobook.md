@@ -29,7 +29,7 @@ Let me assume that there is a Buddhist author Good Writer and he wrote a book Th
 <div class="citace">
 The Life of the Buddha was written by Good Writer and it is licensed under the CC-Zero license:<br>
 <div class="do-not-break-out" markdown="1">
-[https://creativecommons.org/publicdomain/zero/1.0/deed.cs.](https://creativecommons.org/publicdomain/zero/1.0/deed.cs.)<br>
+[https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)<br>
 </div>
 The book is available on www.good-writer-website.com.
 </div>
@@ -65,7 +65,7 @@ The title of this book is Buddhův život. It is a Czech translation of a book  
 The Life of the Buddha was written by Good Author and it is licensed under the CC-Zero license:<br>
 
 <div class="do-not-break-out" markdown="1">
-[https://creativecommons.org/publicdomain/zero/1.0/deed.cs.](https://creativecommons.org/publicdomain/zero/1.0/deed.cs.)<br>
+[https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)<br>
 </div>
 
 The book is available on www.good-author-website.com.<br><br>
@@ -91,7 +91,7 @@ The title of this audiobook is Buddhův život. It is was made of a book that wa
 The Life of the Buddha was written by Good Author and it is licensed under the CC-Zero license:<br>
 
 <div class="do-not-break-out" markdown="1">
-[https://creativecommons.org/publicdomain/zero/1.0/deed.cs.](https://creativecommons.org/publicdomain/zero/1.0/deed.cs)<br>
+[https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)<br>
 </div>
 
 The book is available on www.good-author-website.com.
