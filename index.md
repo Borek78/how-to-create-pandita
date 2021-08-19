@@ -8,7 +8,7 @@ layout: default
 <br>
 Dear Dhammafriends,<br><br>
 
-My names is Dalibor and I am from the Czech Republic. I am creating a Buddhist [YouTube channel PANDITA CZ.](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew) The channel is for Czech audience. I am inspired by the very succesfull Polish [YouTube channel Sasana.pl.](https://www.youtube.com/c/sasanaPL/featured)<br><br>
+My name is Dalibor and I am from the Czech Republic. I am creating a Buddhist [YouTube channel PANDITA CZ.](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew) The channel is for Czech audience. I am inspired by the very succesfull Polish [YouTube channel Sasana.pl.](https://www.youtube.com/c/sasanaPL/featured)<br><br>
 
 I created this blog to communicate with my Dhammafriends from abroad. Perhaps it will also help me to share some of my experiences.<br><br>
 

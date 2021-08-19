@@ -27,7 +27,7 @@ The Life of the Buddha was written by Good Author and it is licensed under the C
 
 <div class="do-not-break-out" markdown="1">
 
-[https://creativecommons.org/publicdomain/zero/1.0/deed.cs.](https://creativecommons.org/publicdomain/zero/1.0/deed.cs.)
+[https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/)
 
 </div>
 

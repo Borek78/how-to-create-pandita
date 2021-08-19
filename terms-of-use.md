@@ -3,16 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Terms of Use - please use the content of this website
 ---
 
 # TERMS OF USE
 
-I wish that everyone can use all my articles on this blog. I wish that the articles can be reused, transformed, and mixed, even for commercial purposes. Therefore, I applied the CC BY license to all my articles on this blog. I am also using quotes from other websites: I can not and have not applied CC BY license on these quotes. <br> <br>
+I wish that everyone can use all my articles on this blog. I wish that the articles can be reused, transformed, and mixed, even for commercial purposes. Therefore, I applied the CC BY license to all my articles on this blog. I am also using quotes from other websites: I can not and have not applied CC BY license to these quotes. <br> <br>
 
 This is a more formal CC notice.<br>
 
 <div class="citace" markdown="1">
-Except where otherwise stated, the articles on this website were written by Dalibor Pavlik and they are licensed under the [CC BY license](https://creativecommons.org/publicdomain/by/4.0/).
+Except where otherwise stated, the articles on this website were written by Dalibor Pavlik and they are licensed under the [CC BY license](https://creativecommons.org/licenses/by/4.0/).
 </div>
 
 <div class="underline">The template</div>
@@ -29,11 +30,11 @@ Keeping the mit-license.txt file in the root directory is sufficient. The file s
 
 ### INSTRUCTIONS TO USE
 
-I have applied very permissive licenses to both the articles and the template and, therefore, anyone is allowed to download this website and use it on his own/her domain. In other words, anyone can legally upload this website on many different domains.<br><br>
+I have applied very permissive licenses to both the articles and the template and, therefore, anyone is allowed to download this website and use it on his own/her domain. In other words, anyone can legally upload this website to many different domains.<br><br>
 
 The static pages of this website can be downloaded by clicking the link below.<br><br>
 
-<a href="../assets/jtp-static-pages-23-07-2021.zip" download>../assets/How-to-create-pandita-10.8.2021.zip</a><br><br>
+<a href="../assets/how-to-create-pandita-20-08-2021.zip" download>../assets/how-to-create-pandita-20-8-2021.zip</a><br><br>
 
 If you decide to work with the content of this website, it is better to work directly with the Pandita Jekyll project (it includes the static pages). You can download it on my Github.<br><br>
 
