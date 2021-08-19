@@ -12,13 +12,13 @@ Marking a creative work with a CC license is usually done with a license notice 
 
 </div>
 <br>
-But the examples mention only one or two authors. Creating an audiobook in the Czech language will require the permission of three creators.<br><br>
+The examples on the two pages above mention only one or two authors. But audiobook production is more complicated. It requires work and permission of three creators: <br><br>
 
-<span>1.</span> Permission of the author.<br>
-<span>2.</span> Permission of the translator.<br>
-<span>3.</span> Permission of the narrator.<br><br>
+<span>1.</span> the writer.<br>
+<span>2.</span> the translator.<br>
+<span>3.</span> the narrator.<br><br>
 
-So what kind of CC marking should I use for Dhamma audiobooks in the Czech language? Unfortunately, I have not found a good example to follow. So let me create an imaginary example.<br><br>
+So what kind of CC marking should I use for Dhamma audiobooks in the Czech language? Unfortunately, I have not found a good example to follow. Let me create an imaginary example.<br><br>
 
 <div id="example" markdown="1">
 <div class="underline">Imaginary example</div>
@@ -55,7 +55,7 @@ When you accessed the material originally did it come with any copyright notices
 
 </div>
 
-The original book is licensed under the CC-Zero license and so the translator does not have to mention the name of the author and the link to the original work. But it is a good practice to do it.<br><br>
+The original book is licensed under the CC-Zero license and, as a result, the translator does not have to mention the name of the author and the link to the original work. But it is a good practice to do it.<br><br>
 
 This could be the translator´s CC notice.
 
