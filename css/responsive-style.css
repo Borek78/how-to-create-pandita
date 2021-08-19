@@ -133,6 +133,10 @@ a.blue:hover {
   #div-pata {
     width: auto;
   }
+
+  #page #content-audiobooks a {
+    line-height: 2;
+  }
 }
 
 @media only screen and (max-width: 400px) {

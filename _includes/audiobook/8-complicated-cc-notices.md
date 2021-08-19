@@ -83,10 +83,14 @@ People like creating audiobooks for other people. For free. The LibriVox project
 
 All the audiobooks on the LibriVox website are in the public domain. In other words, all the books and the audio recordings (narrations) are in the public domain. Dhammapada is one of the books that is available on the LibriVox website.<br><br>
 
+<div class="do-not-break-out" markdown="1">
 [https://librivox.org/search?q=dhammapada&search_form=advanced](https://librivox.org/search?q=dhammapada&search_form=advanced)<br><br>
+</div><br>
 
 There are a few Dhammapada versions on the LibriVox page. One of them is also available on YouTube.<br><br>
 
-[https://www.youtube.com/watch?v=cD6TCxizFjs](https://www.youtube.com/watch?v=cD6TCxizFjs)<br><br>
+<div class="do-not-break-out" markdown="1">
+[https://www.youtube.com/watch?v=cD6TCxizFjs](https://www.youtube.com/watch?v=cD6TCxizFjs)
+</div><br>
 
-The marking in this example is in the title of the website. There is also a CC-Zero symbol at the bottom of the website and a short audio note in the Dhammapada recording.<br>
+The marking on LibriVox website is in the title of the website. There is also a CC-Zero symbol at the bottom of the website and a short audio note in the Dhammapada recording.<br>

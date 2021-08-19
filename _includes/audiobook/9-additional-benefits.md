@@ -7,7 +7,7 @@
 The CC licenses are not useful only for creating audiobooks. There are other benefits of using them.<br><br>
 
 <div class="underline"> Permanent permission </div>
-While authors and translators are still alive, they can decide to allow the use of their work. After their passing away, they will not be able to grant these permissons.<br><br>
+While authors and translators are still alive, they can choose to permit the use of their work. After their passing away, they will not be able to grant these permissons.<br><br>
 
 If the authors and translators apply the CC licenses to their work, it will be possible to use their work also when they are not around. That is another important benefit of using the CC licenses.<br><br>
 
