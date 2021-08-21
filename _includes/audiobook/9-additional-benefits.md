@@ -83,7 +83,7 @@ After reading Ajahn Sujato´s article I decided that whenever possible, I would 
 ### SUMMARY
 </div>
 
-As a Buddhist content creator, I can make very good use of books that are licensed under one of these three licenses: CC-Zero, CC BY, and CC BY-SA. All the other licenses are too restrictive for my activities.<br> <br>
+As a Buddhist content creator, I can make very good use of books that are licensed under one of these three licenses: CC-Zero, CC BY, and CC BY-SA. All the other licenses are too restrictive for my activities on YouTube.<br> <br>
 
 The CC licenses are not just a legal tool. They are also a communication tool and an encouragement for those who would like to translate Buddhist books or create audiobooks of them. The presence of CC notices in books (and e-books) can also encourage online sharing.<br> <br>
 

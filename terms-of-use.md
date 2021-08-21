@@ -36,7 +36,7 @@ The static pages of this website can be downloaded by clicking the link below.<b
 
 <a href="../assets/how-to-create-pandita-20-08-2021.zip" download>../assets/how-to-create-pandita-20-8-2021.zip</a><br><br>
 
-If you decide to work with the content of this website, it is better to work directly with the Pandita Jekyll project (it includes the static pages). You can download it on my Github.<br><br>
+If you decide to work with the content of this website, it is better to work directly with the Pandita Jekyll project. You can download it on my Github.<br><br>
 
 <div class="do-not-break-out" markdown="1">
 [https://github.com/Borek78/how-to-create-pandita](https://github.com/Borek78/how-to-create-pandita)
