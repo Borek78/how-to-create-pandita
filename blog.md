@@ -15,5 +15,7 @@ layout: default
 
 ### [Terms of Use](terms-of-use.html)
 
+### [List of books published under a CC license](list-of-books-published-under-a-cc-license.html)
+
 </div>
 </div>
