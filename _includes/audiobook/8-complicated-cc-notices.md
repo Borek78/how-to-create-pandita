@@ -93,4 +93,15 @@ There are a few Dhammapada versions on the LibriVox page. One of them is also av
 [https://www.youtube.com/watch?v=cD6TCxizFjs](https://www.youtube.com/watch?v=cD6TCxizFjs)
 </div><br>
 
-The marking on LibriVox website is in the title of the website. There is also a CC-Zero symbol at the bottom of the website and a short audio note in the Dhammapada recording.<br>
+The marking on LibriVox website is in the title of the website. There is also a CC-Zero symbol at the bottom of the website and a short audio note in the Dhammapada recording.<br><br>
+
+<div id="another-imaginary-example" markdown="1">
+<div class="underline"> Another Imaginary Example</div>
+</div>
+There is another way to publish an audiobook under a CC license. The following is an interesting situation. <br><br>
+
+Good Author, Good Translator, and Good Narrator have their copyright in the audiobook. Let me assume that all of them decided to apply the CC-BY ND license to the copyright they have in the audiobook. As result, the audiobook is published under the CC-BY ND license.<br><br>
+
+Let me also assume that Good Author has not applied a CC license to his original work, his book. He only applied a CC license to the copyright he has in the audiobook.<br><br>
+
+The important part here is that the CC-BY ND license does not allow to create derivatives: write down the text of the audiobook and distribute it, translate the audiobook and distribute it and so forth. As a result, Good Author is in total control over his original work. He has retained all his copyright to the original work.<br><br>

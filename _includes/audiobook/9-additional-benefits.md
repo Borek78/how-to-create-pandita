@@ -57,7 +57,7 @@ There a many ways to meet these conditions. One of them is very simple. Keep thi
 ### MY INSPIRATION
 </div>
 
-I am very inspired by Ajahn Sujato´s beautiful article Copy this! It is a long article about Buddhism and copyright. The following three parts can be found in the article and, in my opinion, they summarize the article very well.<br><br>
+I am very inspired by Ajahn Sujato´s beautiful article Copy this! It is a long article about Buddhism and copyright. The following three parts can be found in the article and, in my opinion, they summarize Ajahn´s attitude to the CC licenses.<br><br>
 
 The article discusses primarily Buddhist scriptures but similar conclusions could be made when discussing Buddhist books.<br><br>
 
