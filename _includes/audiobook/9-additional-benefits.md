@@ -57,9 +57,7 @@ There a many ways to meet these conditions. One of them is very simple. Keep thi
 ### MY INSPIRATION
 </div>
 
-I am very inspired by Ajahn Sujato´s beautiful article Copy this! It is a long article about Buddhism and copyright. The following three parts can be found in the article and, in my opinion, they summarize Ajahn´s attitude to the CC licenses.<br><br>
-
-The article discusses primarily Buddhist scriptures but similar conclusions could be made when discussing Buddhist books.<br><br>
+I am very inspired by Ajahn Sujato´s article Copy this! It is a long article about Buddhism and copyright. The following three parts can be found in the article and, in my opinion, they summarize Ajahn´s attitude to the CC licenses very well .<br><br>
 
 <div class="do-not-break-out" markdown="1">
 [https://sujato.wordpress.com/2015/05/20/copy-this/](https://sujato.wordpress.com/2015/05/20/copy-this/)
@@ -77,7 +75,7 @@ But regardless of whether it has certain applications in some areas, it contradi
 When I first made some translations, I offered them under a Creative Commons Attribution Share-alike license, which is fairly permissive but requires attribution. After some time, I felt this was bad because Buddhist texts are traditionally regarded as buddhavacana (and should not be owned by any one person). I was also concerned that the license was just setting up barriers where none were necessary. After switching to CC-Zero, I haven’t had any second thoughts.
 </div>
 
-After reading Ajahn Sujato´s article I decided that whenever possible, I would use the most liberal license. Unfortunately, the CC-Zero can not be used in the Czech Republic. The Czech copyright law does not allow to waive all copyright. Therefore, Czech experts on CC licenses recommend using the CC BY license instead.<br>
+After reading Ajahn´s article I decided that whenever possible, I would use the most liberal license. Unfortunately, the CC-Zero can not be used in the Czech Republic. The Czech copyright law does not allow to waive all copyright. Therefore, Czech experts on CC licenses recommend using the CC BY license instead.<br>
 
 <div id="summary" markdown="1">
 ### SUMMARY
